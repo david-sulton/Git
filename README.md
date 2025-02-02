@@ -33,3 +33,10 @@
 - commit- stage changes with a message
 - push- Copy a commit to the repository
 - pull- pull down commits from repository
+
+### Common issues
+#### Merge Conflict
+- 2 developers made changes to the saem repository
+- options are 1. take devA changes and discard devB changes. 2. Take devB version and overwrite devA. 3. Manually merge changes/edit by hand.
+
+####
