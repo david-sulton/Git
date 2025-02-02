@@ -27,3 +27,9 @@
     git push <local rep name>
     
     
+### Notes
+- clone- downloads a copy of a repository
+- add- Add a file to a commit
+- commit- stage changes with a message
+- push- Copy a commit to the repository
+- pull- pull down commits from repository
