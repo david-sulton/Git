@@ -39,4 +39,6 @@
 - 2 developers made changes to the saem repository
 - options are 1. take devA changes and discard devB changes. 2. Take devB version and overwrite devA. 3. Manually merge changes/edit by hand.
 
-####
+#### Branches
+Create a snapshot of the same repo to continue to work on branch while. Can push updates but not to main repo.
+
